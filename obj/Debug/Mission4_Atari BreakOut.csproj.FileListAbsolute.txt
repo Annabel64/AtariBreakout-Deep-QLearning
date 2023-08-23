@@ -1,0 +1,88 @@
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\Mission4_Atari BreakOut.exe.config
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\Mission4_Atari BreakOut.exe
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\Mission4_Atari BreakOut.pdb
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.csproj.AssemblyReference.cache
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari_BreakOut.Form1.resources
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari_BreakOut.Properties.Resources.resources
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.csproj.GenerateResource.cache
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.csproj.CoreCompileInputs.cache
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.exe
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.pdb
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\System.Text.Json.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\System.ValueTuple.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\System.Buffers.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.exe.config
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.csproj.CopyComplete
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut\bin\Debug\System.Memory.dll
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\Mission4_Atari BreakOut.exe.config
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\Mission4_Atari BreakOut.exe
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\Mission4_Atari BreakOut.pdb
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\System.Memory.dll
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\System.Text.Json.dll
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\System.Numerics.Vectors.dll
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\System.Buffers.dll
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\System.Text.Encodings.Web.dll
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\System.ValueTuple.dll
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.csproj.AssemblyReference.cache
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.csproj.SuggestedBindingRedirects.cache
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.exe.config
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari_BreakOut.Form1.resources
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari_BreakOut.Properties.Resources.resources
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.csproj.GenerateResource.cache
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.csproj.CoreCompileInputs.cache
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.csproj.CopyComplete
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.exe
+\\nbgi\dfs\BNS_home\j-merceron\For Jerome and Annabel\Mission4_Atari BreakOut\obj\Debug\Mission4_Atari BreakOut.pdb
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\Mission4_Atari BreakOut.exe.config
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\Mission4_Atari BreakOut.exe
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\Mission4_Atari BreakOut.pdb
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\System.Memory.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\System.Text.Json.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\System.Buffers.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\System.ValueTuple.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\obj\Debug\Mission4_Atari BreakOut.csproj.AssemblyReference.cache
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\obj\Debug\Mission4_Atari BreakOut.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\obj\Debug\Mission4_Atari BreakOut.exe.config
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\obj\Debug\Mission4_Atari_BreakOut.Form1.resources
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\obj\Debug\Mission4_Atari_BreakOut.Properties.Resources.resources
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\obj\Debug\Mission4_Atari BreakOut.csproj.GenerateResource.cache
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\obj\Debug\Mission4_Atari BreakOut.csproj.CoreCompileInputs.cache
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\obj\Debug\Mission4_Atari BreakOut.csproj.CopyComplete
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\obj\Debug\Mission4_Atari BreakOut.exe
+C:\Users\a2-merceron\Documents\Mission4_Atari BreakOut - Pixel\obj\Debug\Mission4_Atari BreakOut.pdb
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\Mission4_Atari BreakOut.exe.config
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\Mission4_Atari BreakOut.exe
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\Mission4_Atari BreakOut.pdb
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\System.Memory.dll
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\System.Text.Json.dll
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\System.Buffers.dll
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\System.ValueTuple.dll
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\obj\Debug\Mission4_Atari BreakOut.csproj.AssemblyReference.cache
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\obj\Debug\Mission4_Atari BreakOut.csproj.SuggestedBindingRedirects.cache
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\obj\Debug\Mission4_Atari BreakOut.exe.config
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\obj\Debug\Mission4_Atari_BreakOut.Form1.resources
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\obj\Debug\Mission4_Atari_BreakOut.Properties.Resources.resources
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\obj\Debug\Mission4_Atari BreakOut.csproj.GenerateResource.cache
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\obj\Debug\Mission4_Atari BreakOut.csproj.CoreCompileInputs.cache
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\obj\Debug\Mission4_Atari BreakOut.csproj.CopyComplete
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\obj\Debug\Mission4_Atari BreakOut.exe
+C:\Users\a2-merceron\Documents\Mission5_Atari BreakOut - Deep QL\obj\Debug\Mission4_Atari BreakOut.pdb
