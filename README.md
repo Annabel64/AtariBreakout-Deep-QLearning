@@ -1,92 +1,20 @@
-# Mission5_Atari BreakOut - Deep QL
+# Atari BreakOut with Deep QLearning
+mission carried out withing Bandai Namco Studios Japan
 
+## What is QLearning and Deep QLearning
+Reinforcement learning is a machine learning method whose objective is to allow an agent (virtual entity: robot, program, etc.), placed in an interactive environment (its actions modify the state of the environment), to choose actions that maximize quantitative rewards. The agent experiments and improves its action strategy based on the rewards provided by the environment.
 
+Deep qLearning is a Qlearning algorithm with a deep neural network added. This neural network helps speeding up the learning phase and choosing the best action for more complex states.
 
-## Getting started
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/76532104/274910523-45b078a8-64d6-4dc9-af06-b6b4a1025854.png" width="1000" height="500" />
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+## Atari breackout
+There are different possibilities to code this ANN, my choices were:
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+- The ANN takes the state of the interface as input (x_platform - x_ball, y_ball, vx_ball, vy_ball and action), and it gives me the "reward" of the action. When I want it to play, I will have to predict 3 values, associated with the left, right and motionless actions. I give in input the difference (x_platform-x_ball) instead of only x_ball and x_platform, so that the ANN see quicker that this variable has to tend to 0 to have a big reward.
+- Initialize the weights with a formula and not randomly, I chose to use the formula of He-et-al: w = np.random.randn ( layer_size[l], layer_size[l-1] ) * np.sqrt( 1 / layer_size[l-1] )
+Bellman's equation doesn’t intervene anymore, since only the reward interests us and the ANN predicts it.
 
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://gitlab.lab.nbgi.jp/a2-merceron/mission5_atari-breakout-deep-ql.git
-git branch -M main
-git push -uf origin main
-```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab.lab.nbgi.jp/a2-merceron/mission5_atari-breakout-deep-ql/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+As my ANN is working, I could easily go to the next steps:
+- adding some bricks,
+- adding another platform on the roof to make the two platforms "fight". For this, I decided to use only one neural network and to call it in mirror, as the two situations are identical but symmetric. First, so it learns 2 times faster, and then, to simplify the program and not have the same neural network twice. To make the platforms "fight", I give them the position of the other platform and a big reward when the ball falls on the other side.
